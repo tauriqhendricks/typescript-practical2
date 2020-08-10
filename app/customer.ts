@@ -1,5 +1,4 @@
 import { User } from './user';
-import * as _ from 'lodash';
 
 export class Customer implements User{
     forenames: string;
